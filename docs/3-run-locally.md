@@ -31,7 +31,7 @@ Clone this repository locally or fork to your Github account. Run all of the the
    OPENAI_API_KEY=
    AZURE_OPENAI_API_INSTANCE_NAME=
    AZURE_OPENAI_API_DEPLOYMENT_NAME=
-   AZURE_OPENAI_API_VERSION=2023-03-15-preview
+   AZURE_OPENAI_API_VERSION=2023-12-01-preview
    AZURE_OPENAI_API_EMBEDDINGS_DEPLOYMENT_NAME=
 
    # Update your admin email address
@@ -66,7 +66,7 @@ Clone this repository locally or fork to your Github account. Run all of the the
    AZURE_SEARCH_API_KEY=
    AZURE_SEARCH_NAME=
    AZURE_SEARCH_INDEX_NAME=
-   AZURE_SEARCH_API_VERSION="2023-07-01-Preview"
+   AZURE_SEARCH_API_VERSION="2023-12-01-Preview"
 
    # Azure AI Document Intelligence to extract content from your data
 
