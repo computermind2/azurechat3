@@ -20,7 +20,7 @@ param location string
 param openAILocation string
 
 param openAISku string = 'S0'
-param openAIApiVersion string = '2023-03-15-preview'
+param openAIApiVersion string = '2023-12-01-preview'
 
 param chatGptDeploymentCapacity int = 30
 param chatGptDeploymentName string = 'chat-gpt-35-turbo'
@@ -33,7 +33,7 @@ param embeddingModelName string = 'text-embedding-ada-002'
 param formRecognizerSkuName string = 'S0'
 param searchServiceIndexName string = 'azure-chat'
 param searchServiceSkuName string = 'standard'
-param searchServiceAPIVersion string = '2023-07-01-Preview'
+param searchServiceAPIVersion string = '2023-12-01-Preview'
 
 param resourceGroupName string = ''
 
