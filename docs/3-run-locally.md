@@ -66,7 +66,7 @@ Clone this repository locally or fork to your Github account. Run all of the the
    AZURE_SEARCH_API_KEY=
    AZURE_SEARCH_NAME=
    AZURE_SEARCH_INDEX_NAME=
-   AZURE_SEARCH_API_VERSION="2023-10-01-Preview"
+   AZURE_SEARCH_API_VERSION="2023-07-01-Preview"
 
    # Azure AI Document Intelligence to extract content from your data
 
