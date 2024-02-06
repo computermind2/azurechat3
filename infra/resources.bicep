@@ -15,9 +15,9 @@ param embeddingModelName string = 'text-embedding-ada-002'
 
 param speechServiceSkuName string = 'S0'
 param formRecognizerSkuName string = 'S0'
-param searchServiceSkuName string = 'standard'
+param searchServiceSkuName string = 'free'
 param searchServiceIndexName string = 'azure-chat'
-param searchServiceAPIVersion string = '2023-12-01-Preview'
+param searchServiceAPIVersion string = '2023-10-01-Preview'
 
 param location string = resourceGroup().location
 
