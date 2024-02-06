@@ -90,7 +90,7 @@
     },
     "searchServiceAPIVersion": {
       "type": "string",
-      "defaultValue": "2023-07-01-Preview"
+      "defaultValue": "2023-12-01-Preview"
     },
     "resourceGroupName": {
       "type": "string",
@@ -247,7 +247,7 @@
             },
             "searchServiceAPIVersion": {
               "type": "string",
-              "defaultValue": "2023-07-01-Preview"
+              "defaultValue": "2023-12-01-Preview"
             },
             "location": {
               "type": "string",
