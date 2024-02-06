@@ -33,7 +33,7 @@ param embeddingModelName string = 'text-embedding-ada-002'
 param formRecognizerSkuName string = 'S0'
 param searchServiceIndexName string = 'azure-chat'
 param searchServiceSkuName string = 'standard'
-param searchServiceAPIVersion string = '2023-12-01-Preview'
+param searchServiceAPIVersion string = '2023-10-01-Preview'
 
 param resourceGroupName string = ''
 
